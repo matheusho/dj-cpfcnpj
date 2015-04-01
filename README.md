@@ -1,4 +1,4 @@
-# BRCPFCNPJField
+# BR CPFCNPJ Field
  A custom Django form field to BR CPF/CNPJ form field
 
 
