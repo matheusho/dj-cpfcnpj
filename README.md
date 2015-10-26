@@ -17,4 +17,4 @@ class PersonForm(forms.Form):
  
  Thanks.
 
-Have a nice day =)
+Love and peace.
