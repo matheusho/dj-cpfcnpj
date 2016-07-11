@@ -4,7 +4,7 @@
 
 ### Example
  
-````sh
+````python
 from django import forms
 from br_cpfcnpj.forms import BRCPFCNPJField
 
